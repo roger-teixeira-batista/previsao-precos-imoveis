@@ -6,7 +6,7 @@ O sistema utiliza um modelo de regressão treinado para realizar previsões de v
 
 ## 🌐 Demonstração
 
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/be3981f0-aefc-4477-9eef-7d3abb736f69" />
+<img width="765" height="877" alt="image" src="https://github.com/user-attachments/assets/5b30cc47-7ebc-4de7-ae1e-5a9b8b320fd7" />
 
 **Acesse a aplicação:** [Previsão de Preços de Imóveis](https://previsao-precos-imoveis.onrender.com/)
 
