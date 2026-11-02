@@ -1,0 +1,19 @@
+# Ambientes virtuais
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Variáveis de ambiente
+.env
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Arquivos temporários
+.DS_Store
+*.log
+.pytest_cache/
